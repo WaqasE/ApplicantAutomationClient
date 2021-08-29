@@ -1,0 +1,14 @@
+@media only screen and (max-width: 961px) {
+  #leftBox {
+    display: none;
+    width: 0%;
+  }
+
+  #rightBox {
+    width: 100%;
+  }
+
+  #sidebar {
+    display: none;
+  }
+}
